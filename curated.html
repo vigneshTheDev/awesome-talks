@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Talks</title>
+    <title>Curated Talks - Awesome Talks</title>
     <style>
         * {
             margin: 0;
@@ -172,8 +172,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Conference Talks</h1>
-            <a href="curated.html" class="nav-link">View Curated Talks</a>
+            <h1>Curated Talks</h1>
+            <a href="index.html" class="nav-link">View Conference Talks</a>
         </div>
         <div class="filter-section">
             <div id="filter-tags" class="filter-tags"></div>
@@ -289,7 +289,7 @@
 
         async function loadVideos() {
             try {
-                const response = await fetch('videos.json');
+                const response = await fetch('curated-videos.json');
                 const data = await response.json();
                 allVideos = data.data.videoses;
 
