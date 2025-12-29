@@ -76,6 +76,18 @@
             border-color: #fff;
         }
 
+        .category-section {
+            margin-bottom: 50px;
+        }
+
+        .category-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #272727;
+        }
+
         .video-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -178,7 +190,7 @@
         <div class="filter-section">
             <div id="filter-tags" class="filter-tags"></div>
         </div>
-        <div id="video-grid" class="video-grid"></div>
+        <div id="categories-container"></div>
     </div>
 
     <script>
@@ -235,37 +247,63 @@
             return card;
         }
 
-        function displayVideos(videos) {
-            const grid = document.getElementById('video-grid');
-            grid.innerHTML = '';
+        function displayVideosByCategory(videos) {
+            const container = document.getElementById('categories-container');
+            container.innerHTML = '';
+
+            // Group videos by category
+            const categoryMap = {};
             videos.forEach(video => {
-                grid.appendChild(createVideoCard(video));
+                const category = video.category || 'Uncategorized';
+                if (!categoryMap[category]) {
+                    categoryMap[category] = [];
+                }
+                categoryMap[category].push(video);
+            });
+
+            // Display each category section
+            Object.entries(categoryMap).sort().forEach(([category, categoryVideos]) => {
+                const section = document.createElement('div');
+                section.className = 'category-section';
+                section.id = `category-${category.toLowerCase().replace(/\s+/g, '-')}`;
+
+                const title = document.createElement('h2');
+                title.className = 'category-title';
+                title.textContent = `${category} (${categoryVideos.length})`;
+                section.appendChild(title);
+
+                const grid = document.createElement('div');
+                grid.className = 'video-grid';
+                categoryVideos.forEach(video => {
+                    grid.appendChild(createVideoCard(video));
+                });
+                section.appendChild(grid);
+
+                container.appendChild(section);
             });
         }
 
-        function filterVideos(tag) {
-            selectedTag = tag;
+        function filterVideos(category) {
+            selectedTag = category;
 
             document.querySelectorAll('.filter-tag').forEach(btn => {
                 btn.classList.remove('active');
             });
 
-            if (tag) {
-                document.querySelector(`[data-tag="${tag}"]`).classList.add('active');
-                const filtered = allVideos.filter(video =>
-                    video.tags && video.tags.some(t => t.name === tag)
-                );
-                displayVideos(filtered);
+            if (category) {
+                document.querySelector(`[data-tag="${category}"]`).classList.add('active');
+                const filtered = allVideos.filter(video => video.category === category);
+                displayVideosByCategory(filtered);
             } else {
-                displayVideos(allVideos);
+                displayVideosByCategory(allVideos);
             }
         }
 
         function createFilterTags(videos) {
-            const tagSet = new Set();
+            const categorySet = new Set();
             videos.forEach(video => {
-                if (video.tags) {
-                    video.tags.forEach(tag => tagSet.add(tag.name));
+                if (video.category) {
+                    categorySet.add(video.category);
                 }
             });
 
@@ -277,12 +315,12 @@
             allBtn.onclick = () => filterVideos(null);
             filterContainer.appendChild(allBtn);
 
-            Array.from(tagSet).sort().forEach(tag => {
+            Array.from(categorySet).sort().forEach(category => {
                 const btn = document.createElement('button');
                 btn.className = 'filter-tag';
-                btn.textContent = tag;
-                btn.dataset.tag = tag;
-                btn.onclick = () => filterVideos(tag);
+                btn.textContent = category;
+                btn.dataset.tag = category;
+                btn.onclick = () => filterVideos(category);
                 filterContainer.appendChild(btn);
             });
         }
@@ -294,10 +332,10 @@
                 allVideos = data.data.videoses;
 
                 createFilterTags(allVideos);
-                displayVideos(allVideos);
+                displayVideosByCategory(allVideos);
             } catch (error) {
                 console.error('Error loading videos:', error);
-                document.getElementById('video-grid').innerHTML = '<p>Error loading videos</p>';
+                document.getElementById('categories-container').innerHTML = '<p>Error loading videos</p>';
             }
         }
 

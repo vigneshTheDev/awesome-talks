@@ -9,14 +9,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Computer Revolution hasn't happend yet",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_alan_kay",
             "name": "Alan Kay"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_2",
@@ -26,14 +32,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Programming is terrible - Lessons learned from a life wasted",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_thomas_figg",
             "name": "Thomas Figg"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_3",
@@ -43,14 +55,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Effective Programs - 10 Years of Clojure",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_rich_hickey",
             "name": "Rich Hickey"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_4",
@@ -60,14 +78,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Web We Lost",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_anil_dash",
             "name": "Anil Dash"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_5",
@@ -77,14 +101,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Growing a Language",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_guy_steele",
             "name": "Guy Steele"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_6",
@@ -94,14 +124,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Mess We're In",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_joe_armstrong",
             "name": "Joe Armstrong"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_7",
@@ -111,14 +147,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "To the Moon!",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_russ_olsen",
             "name": "Russ Olsen"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_8",
@@ -128,14 +170,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Simplify Challenging Software Problems with Rocket Science",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_bradley_grzesiak",
             "name": "Bradley Grzesiak"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_9",
@@ -145,14 +193,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "A short history of Software Engineering, and other ideas that didn't work",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_paolo_perrotta",
             "name": "Paolo Perrotta"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_10",
@@ -162,14 +216,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Linus Torvalds on Git",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_linus_torvalds",
             "name": "Linus Torvalds"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_11",
@@ -179,14 +239,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Worst Programming Language Ever",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_mark_rendle",
             "name": "Mark Rendle"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_12",
@@ -196,14 +262,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Unconventional Programming with Chemical Computing",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_carin_meier",
             "name": "Carin Meier"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_13",
@@ -213,14 +285,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Programming is Writing is Programming",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_felienne_hermans",
             "name": "Felienne Hermans"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_14",
@@ -230,14 +308,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "We're Doing It All Wrong",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_paul_phillips",
             "name": "Paul Phillips"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_15",
@@ -247,14 +331,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Real Software Engineering",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_glenn_vanderburg",
             "name": "Glenn Vanderburg"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_16",
@@ -264,14 +354,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Feature Branching Considered Evil",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_thierry_de_pauw",
             "name": "Thierry de Pauw"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_17",
@@ -281,14 +377,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Programming’s Greatest Mistakes",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_mark_rendle",
             "name": "Mark Rendle"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_18",
@@ -298,14 +400,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Email vs Capitalism: A Story About Why We Can't Have Nice Things",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_dylan_beattie",
             "name": "Dylan Beattie"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_19",
@@ -315,14 +423,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Preventing the Collapse of Civilization",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_development",
+            "name": "Software Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_jonathan_blow",
             "name": "Jonathan Blow"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Development"
       },
       {
         "id": "awesome_20",
@@ -332,14 +446,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Functional is cool, but do you know OO",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_object-oriented_programming",
+            "name": "Object-Oriented Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_sandro_mancuso",
             "name": "Sandro Mancuso"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Object-Oriented Programming"
       },
       {
         "id": "awesome_21",
@@ -349,14 +469,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Functional Principles for Object-Oriented Developers",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_jessica_kerr",
             "name": "Jessica Kerr"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_22",
@@ -366,14 +492,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Extreme Cleverness: Functional Data Structures in Scala",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_daniel_spiewak",
             "name": "Daniel Spiewak"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_23",
@@ -383,14 +515,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Tangible Functional Programming",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_conal_elliott",
             "name": "Conal Elliott"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_24",
@@ -400,14 +538,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Faith, Evolution, and Programming Languages",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_phillip_wadler",
             "name": "Phillip Wadler"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_25",
@@ -417,14 +561,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Don't fear the Monad",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_dr._brian_beckman",
             "name": "Dr. Brian Beckman"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_26",
@@ -434,14 +584,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Propositions as Types",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_philip_wadler",
             "name": "Philip Wadler"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_27",
@@ -451,14 +607,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Types are like the Weather, Type Systems are like Weathermen",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_matthias_felleisen",
             "name": "Matthias Felleisen"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_28",
@@ -468,14 +630,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Functional architecture - The pits of success",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_mark_seemann",
             "name": "Mark Seemann"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_29",
@@ -485,14 +653,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "To Clojure and back: Writing and rewriting in Ruby",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_phillip_mendonça-vieira",
             "name": "Phillip Mendonça-Vieira"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_30",
@@ -502,14 +676,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "All I needed for FP I learned in High School Algebra",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_eric_normand",
             "name": "Eric Normand"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_31",
@@ -519,14 +699,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Solving Problems The Clojure Way",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_functional_programming",
+            "name": "Functional Programming"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_rafal_dittwald",
             "name": "Rafal Dittwald"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Functional Programming"
       },
       {
         "id": "awesome_32",
@@ -536,14 +722,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Architecture the Lost Years",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_robert_c._martin",
             "name": "Robert C. Martin"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_33",
@@ -553,14 +745,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Art of Destroying Software",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_greg_young",
             "name": "Greg Young"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_34",
@@ -570,14 +768,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Actor Model",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_hewitt,_meijer_and_szyperski",
             "name": "Hewitt, Meijer and Szyperski"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_35",
@@ -587,14 +791,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "How To Design A Good API and Why it Matters",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_josh_bloch",
             "name": "Josh Bloch"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_36",
@@ -604,14 +814,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Microservices",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_martin_fowler",
             "name": "Martin Fowler"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_37",
@@ -621,14 +837,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Stewardship: The Sobering Parts",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_brian_goetz",
             "name": "Brian Goetz"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_38",
@@ -638,14 +860,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Therapeutic Refactoring",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_katrina_owen",
             "name": "Katrina Owen"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_39",
@@ -655,14 +883,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Evidence-Oriented Programming",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_andreas_stefik",
             "name": "Andreas Stefik"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_40",
@@ -672,14 +906,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Programming Language Wars",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_andreas_stefik",
             "name": "Andreas Stefik"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_41",
@@ -689,14 +929,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Hopelessness and Confidence in Distributed Systems Design",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_camille_fournier",
             "name": "Camille Fournier"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_42",
@@ -706,14 +952,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Kill \"Microservices\" Before Its Too Late",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_chad_fowler",
             "name": "Chad Fowler"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_43",
@@ -723,14 +975,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Lost Art Of Software Design",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_simon_brown",
             "name": "Simon Brown"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_44",
@@ -740,14 +998,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Tidy First",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_software_design",
+            "name": "Software Design"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_kent_beck",
             "name": "Kent Beck"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Software Design"
       },
       {
         "id": "awesome_45",
@@ -757,14 +1021,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Better Parts",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_douglas_crockford",
             "name": "Douglas Crockford"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_46",
@@ -774,14 +1044,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Introduction to Node.js",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_ryan_dahl",
             "name": "Ryan Dahl"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_47",
@@ -791,14 +1067,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Hey Underscore, You're Doing It Wrong!",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_brian_lonsdorf",
             "name": "Brian Lonsdorf"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_48",
@@ -808,14 +1090,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Community.js",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_chris_williams",
             "name": "Chris Williams"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_49",
@@ -825,14 +1113,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "An End to Negativity",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_chris_williams",
             "name": "Chris Williams"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_50",
@@ -842,14 +1136,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Is Node.js Better",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_brian_ford",
             "name": "Brian Ford"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_51",
@@ -859,14 +1159,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Critical rendering path - Crash course on web performance",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_ilya_grigorik",
             "name": "Ilya Grigorik"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_52",
@@ -876,14 +1182,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Om Next",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_david_nolen",
             "name": "David Nolen"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_53",
@@ -893,14 +1205,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "ClojureScript for Skeptics ",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_web_development",
+            "name": "Web Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_derek_slager",
             "name": "Derek Slager"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Web Development"
       },
       {
         "id": "awesome_54",
@@ -910,14 +1228,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Transformation Priority Premise",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_robert_c._martin",
             "name": "Robert C. Martin"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_55",
@@ -927,14 +1251,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Test-Driven Development - Write better code in less time",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_evan_dorn",
             "name": "Evan Dorn"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_56",
@@ -944,14 +1274,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Magic Tricks of Testing",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_sandi_metz",
             "name": "Sandi Metz"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_57",
@@ -961,14 +1297,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Why You Don't Get Mock Objects",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_gregory_moeck",
             "name": "Gregory Moeck"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_58",
@@ -978,14 +1320,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Clean Code Talks - Unit Testing",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_misko_hevery",
             "name": "Misko Hevery"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_59",
@@ -995,14 +1343,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "TDD and Software Design",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_jb_rainsberger_and_sandro_mancuso",
             "name": "JB Rainsberger and Sandro Mancuso"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_60",
@@ -1012,14 +1366,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Does TDD Really Lead to Good Design?",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_sandro_mancuso",
             "name": "Sandro Mancuso"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_61",
@@ -1029,14 +1389,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "TDD For Those Who Don't Need It",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_chew_choon_keat",
             "name": "Chew Choon Keat"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_62",
@@ -1046,14 +1412,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "TDD: Theme & Variations",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_test-driven_development",
+            "name": "Test-Driven Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_kent_beck",
             "name": "Kent Beck"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Test-Driven Development"
       },
       {
         "id": "awesome_63",
@@ -1063,14 +1435,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Land that Scrum Forgot",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_robert_c._martin",
             "name": "Robert C. Martin"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_64",
@@ -1080,14 +1458,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Demanding Professionalism in Software Development",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_robert_c._martin",
             "name": "Robert C. Martin"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_65",
@@ -1097,14 +1481,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Death of Agile",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_dave_thomas",
             "name": "Dave Thomas"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_66",
@@ -1114,14 +1504,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Why Agile Works",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_alistair_cockburn",
             "name": "Alistair Cockburn"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_67",
@@ -1131,14 +1527,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "It Is Not About Software Anymore",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_mary_poppendieck",
             "name": "Mary Poppendieck"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_68",
@@ -1148,14 +1550,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_jb_rainsberger",
             "name": "JB Rainsberger"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_69",
@@ -1165,14 +1573,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Explaining Team Flow",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_michel_grootjans",
             "name": "Michel Grootjans"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_70",
@@ -1182,14 +1596,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Efficiency Paradox",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_niklas_modig",
             "name": "Niklas Modig"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_71",
@@ -1199,14 +1619,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Extreme Product Development",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_methodologies",
+            "name": "Methodologies"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_peter_hilton",
             "name": "Peter Hilton"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Methodologies"
       },
       {
         "id": "awesome_72",
@@ -1216,14 +1642,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Charming Genius of the Apollo Guidance Computer",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_computer_history",
+            "name": "Computer History"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_brian_troutwine",
             "name": "Brian Troutwine"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Computer History"
       },
       {
         "id": "awesome_73",
@@ -1233,14 +1665,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The History (and the Future) of Software",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_computer_history",
+            "name": "Computer History"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_grady_booch",
             "name": "Grady Booch"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Computer History"
       },
       {
         "id": "awesome_74",
@@ -1250,14 +1688,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Future of Programming",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_computer_history",
+            "name": "Computer History"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_robert_c._martin",
             "name": "Robert C. Martin"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Computer History"
       },
       {
         "id": "awesome_75",
@@ -1267,14 +1711,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "1968",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_computer_history",
+            "name": "Computer History"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_kevlin_henney",
             "name": "Kevlin Henney"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Computer History"
       },
       {
         "id": "awesome_76",
@@ -1284,14 +1734,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "DOOM’s Development: A Year of Madness",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_computer_history",
+            "name": "Computer History"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_john_romero",
             "name": "John Romero"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Computer History"
       },
       {
         "id": "awesome_77",
@@ -1301,14 +1757,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Boeing 737 MAX: When Humans and Technology Don't Mix",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_computer_history",
+            "name": "Computer History"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_kyle_kotowick",
             "name": "Kyle Kotowick"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Computer History"
       },
       {
         "id": "awesome_78",
@@ -1318,14 +1780,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Deconstructing the Database",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_databases",
+            "name": "Databases"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_rich_hickey",
             "name": "Rich Hickey"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Databases"
       },
       {
         "id": "awesome_79",
@@ -1335,14 +1803,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Things Every Developer Absolutely, Positively Needs To Know About Database Indexing",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_databases",
+            "name": "Databases"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_kai_sassnowski",
             "name": "Kai Sassnowski"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Databases"
       },
       {
         "id": "awesome_80",
@@ -1352,14 +1826,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_security",
+            "name": "Security"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_james_mickens",
             "name": "James Mickens"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Security"
       },
       {
         "id": "awesome_81",
@@ -1369,14 +1849,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Acceptance Testing For Continuous Delivery",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_testing",
+            "name": "Testing"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_dave_farley",
             "name": "Dave Farley"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Testing"
       },
       {
         "id": "awesome_82",
@@ -1386,14 +1872,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "A Lecture on Creativity",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_john_cleese",
             "name": "John Cleese"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_83",
@@ -1403,14 +1895,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Meaning of Life",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_derek_sivers",
             "name": "Derek Sivers"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_84",
@@ -1420,14 +1918,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Surviving the Framework Hype Cycle",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_brandon_hays",
             "name": "Brandon Hays"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_85",
@@ -1437,14 +1941,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Stop Treading Water - Learning to Learn",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_edward_kmett",
             "name": "Edward Kmett"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_86",
@@ -1454,14 +1964,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "The Last Lecture: Achieving Your Childhood Dreams",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_randy_pausch",
             "name": "Randy Pausch"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_87",
@@ -1471,14 +1987,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Steve Jobs' 2005 Stanford Commencement Address",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_steve_jobs",
             "name": "Steve Jobs"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_88",
@@ -1488,14 +2010,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Hammock Driven Development",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_rich_hickey",
             "name": "Rich Hickey"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       },
       {
         "id": "awesome_89",
@@ -1505,14 +2033,20 @@
         "duration": 0,
         "publishedAt": null,
         "description": "Drive - The Surprising Truth About What Motivates Us",
-        "tags": [],
+        "tags": [
+          {
+            "id": "category_cognitive_development",
+            "name": "Cognitive Development"
+          }
+        ],
         "speaker": [
           {
             "id": "speaker_rsa_animate",
             "name": "RSA Animate"
           }
         ],
-        "event": ""
+        "event": "",
+        "category": "Cognitive Development"
       }
     ]
   }
