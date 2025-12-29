@@ -1,0 +1,3 @@
+[submodule "awesome-talks-source"]
+	path = awesome-talks-source
+	url = https://github.com/JanVanRyswyck/awesome-talks.git
